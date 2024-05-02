@@ -28,7 +28,7 @@ a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: none;
-  
+}
   .menu {
     float: left;
     width: 20%;
