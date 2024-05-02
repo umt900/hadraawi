@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,27 @@
     * {
     box-sizing: border-box;
     text-decoration: none;
+    color:black;
   }
+  a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
   
   .menu {
     float: left;
