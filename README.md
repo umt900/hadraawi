@@ -2,8 +2,9 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="./responsive.css">
 <style>
-  * {
+    * {
     box-sizing: border-box;
     text-decoration: none;
   }
@@ -45,7 +46,6 @@
     }
   }
 </style>
-
 </head>
 <body style="font-family:Verdana;color:#aaaaaa;">
 
@@ -87,3 +87,4 @@
 
 </body>
 </html>
+
